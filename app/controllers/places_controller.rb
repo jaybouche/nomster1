@@ -3,4 +3,7 @@ def index
   @places = Place.all
 end
 
+def new
+end
+
 end
